@@ -1,0 +1,16 @@
+const Name = "𝘼𝙧𝙟𝙪𝙣";
+console.log(Name);
+const School = "𝙋𝙖𝙧𝙨𝙝𝙪𝙧𝙖𝙢 𝙄𝙣𝙩𝙚𝙧 𝘾𝙤𝙡𝙡𝙚𝙜𝙚";
+console.log(School);
+const Grade = 12;
+console.log(Grade);
+const Section = "𝘼";
+console.log(Section);
+const Roll_Number = 1;
+console.log(Roll_Number);
+const Math = 96;
+console.log(Math);
+const Physics = 96;
+console.log(Physics);
+const Chemistry = 96;
+console.log(Chemistry);
